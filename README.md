@@ -26,9 +26,9 @@ BACKEND:
 
 # Untuk Login:
 - Admin
-Username : admin
-Password : admin
+  - Username : admin
+  - Password : admin
 
 - Petugas
-Username : arum
-Password : 123
+  - Username : arum
+  - Password : 123
